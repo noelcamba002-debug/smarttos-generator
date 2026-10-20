@@ -1,4 +1,4 @@
-const CACHE_NAME = 'aes-smarttos-v1';
+const CACHE_NAME = 'aes-smarttos-v2';
 const ASSETS = [
   './index.html',
   './manifest.json',
