@@ -1,0 +1,1 @@
+# smarttos-generator
